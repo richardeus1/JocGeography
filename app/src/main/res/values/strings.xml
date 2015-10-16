@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Joc Geografia!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="help_info">Joc Geografia! Es un juego de Geografía con tres niveles de dificultad.\n\nElige nivel Fácil, Medio o Difícil para empezar.\n\nRelaciona correctamente el nombre del país con su ubicación para ir sumando puntos .\n\nLas diez mejores puntuaciones se guardarán automáticamente en la sección High Scores.</string>
+
+</resources>
