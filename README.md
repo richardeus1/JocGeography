@@ -1,2 +1,2 @@
 # JocGeography
-Android app to learn about the difference Countires around Europe.
+Android app to learn more about the Countries around Europe.
